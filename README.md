@@ -1,5 +1,5 @@
-# Zee_Recommender_System
-Recommender System for Zee
+#Recommender_System
+Recommender System for movie platform
 
 Problem Statement:
 To design and implement movie recommendation system to provide most relevant recommendations to the user
